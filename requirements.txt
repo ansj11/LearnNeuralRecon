@@ -1,0 +1,18 @@
+ray
+transforms3d
+tqdm
+#opencv-python
+numba
+pycuda
+tensorboardX
+scikit-image
+trimesh~=3.9.18
+yacs
+h5py
+loguru
+<<<<<<< Updated upstream
+gdown # for downloading checkpoints
+pyrender~=0.1.45
+pyglet
+=======
+>>>>>>> Stashed changes
